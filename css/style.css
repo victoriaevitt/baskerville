@@ -124,13 +124,14 @@ th {
     font-weight: normal;
     text-align: left;
     color:white
-    background: darkgreen;
+    background:darkgreen;
 }
 
 th, td {padding:0.5rem;}
 
 table, td {
-    background: grey;
+    background: rgb(58, 189, 108);
+    border: 2px solid white;
 }
 
 footer {
