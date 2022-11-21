@@ -115,7 +115,22 @@ width: 100%;
 
 caption {
     margin:1.5rem 0;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
 
+th {
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    color:white
+    background: darkgreen;
+}
+
+th, td {padding:0.5rem;}
+
+table, td {
+    background: grey;
 }
 
 footer {
