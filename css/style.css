@@ -121,16 +121,16 @@ caption {
 
 th {
     text-transform: uppercase;
-    font-weight: normal;
+    font-weight: bold;
     text-align: left;
-    color:darkgreen;
     background: #E8DCB5;
+    background: darkgreen;
 }
 
 th, td {padding:0.5rem;}
 
 table, td {
-    background: rgb(182, 181, 181);
+    background: #E8DCB5;
     border: 2px solid darkgreen;
 }
 
