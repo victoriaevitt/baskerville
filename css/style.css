@@ -113,6 +113,10 @@ margin-bottom:2rem;
 width: 100%;
 }
 
+caption {
+    margin:1.5rem 0;
+
+}
 
 footer {
     text-align: center;
