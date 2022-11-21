@@ -103,6 +103,14 @@ nav a: :hover {
     transition: all 0.3 ease-in-out;
 }
 
+/*---styling table---*/
+table {
+margin:auto;
+display:table;
+border-collapse: collapse;
+}
+
+
 footer {
     text-align: center;
     font-size: 0.8rem;
